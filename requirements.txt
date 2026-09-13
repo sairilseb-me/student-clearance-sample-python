@@ -1,0 +1,8 @@
+Django==6.1.1
+django-vite==3.1.0
+inertia-django==2.0.0
+python-dotenv==1.2.3
+
+# Uncomment if you set DB_ENGINE=mysql in .env to match the original app's
+# MySQL setup instead of the SQLite default:
+# mysqlclient==2.2.7
