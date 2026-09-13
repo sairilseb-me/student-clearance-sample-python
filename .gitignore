@@ -9,3 +9,4 @@ node_modules/
 *.log
 .DS_Store
 BACKEND_ARCHITECTURE.md
+TECH_STACK.md
